@@ -8,7 +8,8 @@
 
 <img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/fda6b3be-f8d7-45b7-91ab-c7ca45a6ebd1" />
 
-<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/5a37a474-06bf-46db-8cbb-2c99912905b6" />
+<img width="1920" height="1080" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/3f361cac-6abf-4624-b943-b8cba022ee5b" />
+
 
 
 This project analyzes anonymized event-level telemetry logs from a large-scale online examination. The objective was to identify candidate engagement patterns, activity trends, response behavior, language preferences, and time-based interaction insights using SQL and Power BI.
